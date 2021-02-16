@@ -1,7 +1,16 @@
-## Hey 👋, This is AseCx Gans
-[![Gmail Badge](https://img.shields.io/badge/-arrokm053@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arrokm053@gmail.com)](mailto:arrokm053@gmail.com) [![Github Badge](https://img.shields.io/badge/-ArroKM-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ArroKM/)](https://www.github.com/ArroKM/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=asecx.site@github.io/)](asecx.site@github.io/) <p align='left'>Tidak ada kata yang indah dalam diri saya, hanya sebuat kata yang mungkin tak pantas untuk di katakan, mungkin cukup diri ini saja yang merasakan nya-_-</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ArroKM alt=ArroKM /> </p>
+# Welcome To My Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="center"><a href="https://github.com/hekelpro"><img src="https://i.ibb.co/tb5qqfF/FB-IMG-16131284832799765.jpg" height='195' alt="hekelpro profile">
+<a href="https://github.com/ArroKM"><img title="ArroKM" src="https://github-readme-stats.vercel.app/api?username=ArroKM&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
+<a href="https://github.com/ArroKM"><img title="ArroKM" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArroKM&layout=compact&theme=nightowl"></a><br>
+<a href="https://github.com/ArroKM"><img title="ArroKM" src="https://komarev.com/ghpvc/?username=ArroKM&label=Views&color=blue&style=plastic"></a>
+<a href="https://github.com/ArroKM"><img title="ArroKM" src="https://img.shields.io/github/followers/ArroKM?label=follow&style=social"></a>
+</p><br>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ArroKM&show_icons=true&include_all_commits=true)](https://github.com/ArroKM/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArroKM&layout=compact)](https://github.com/ArroKM/github-readme-stats)
+<details>
+  <summary><b>CONTACT ME</b></summary><br>
+
+  - <a href="https://www.facebook.com/muhammad.fathul.5055"/><img alt="Rizky Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Add</b></a><br>
+  - <a href="https://t.me/arro_km"/><img alt="Rizky Telegram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b>Chat</b></a><br>
+  - <a href="https://instagram.com/arrokm.1"/><img alt="Rizky Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b> Follow</b></a>
+  </p>
+</details>
