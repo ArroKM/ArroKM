@@ -6,6 +6,23 @@
 <a href="https://github.com/ArroKM"><img title="ArroKM" src="https://img.shields.io/github/followers/ArroKM?label=follow&style=social"></a>
 </p><br>
 
+```js
+import webDeveloper from 'AseCx';
+
+class Bio extends webDeveloper {
+  name     = 'AseCx';
+  title    = 'Web Developer';
+  team     = 'XiuzCode';
+  location = 'Cilegon, Banten';
+}
+
+class Skills extends webDeveloper {
+  languages  = ['JavaScript', 'PHP', 'Python'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['CI4', 'Bootstrap', 'Flask'];
+}
+```
+
 <details>
   <summary><b>CONTACT ME</b></summary><br>
 
