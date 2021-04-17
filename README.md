@@ -1,10 +1,8 @@
-# Welcome To My Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="center"><a href="https://github.com/ArroKM"><img src="prof.jpg" height='195' alt="ArroKM profile">
-<a href="https://github.com/ArroKM"><img title="ArroKM" src="https://github-readme-stats.vercel.app/api?username=ArroKM&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
-<a href="https://github.com/ArroKM"><img title="ArroKM" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArroKM&layout=compact&theme=nightowl"></a><br>
-<a href="https://github.com/ArroKM"><img title="ArroKM" src="https://komarev.com/ghpvc/?username=ArroKM&label=Views&color=blue&style=plastic"></a>
-<a href="https://github.com/ArroKM"><img title="ArroKM" src="https://img.shields.io/github/followers/ArroKM?label=follow&style=social"></a>
-</p><br>
+### Hi there 👋<h2> I'm AseCx</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
 
 ```js
 import webDeveloper from 'AseCx';
@@ -23,11 +21,76 @@ class Skills extends webDeveloper {
 }
 ```
 
-<details>
-  <summary><b>CONTACT ME</b></summary><br>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-  - <a href="https://www.facebook.com/muhammad.fathul.5055"/><img alt="Rizky Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Add</b></a><br>
-  - <a href="https://t.me/arro_km"/><img alt="Rizky Telegram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b>Chat</b></a><br>
-  - <a href="https://instagram.com/arrokm.1"/><img alt="Rizky Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b> Follow</b></a>
-  </p>
-</details>
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | PHP | MySql
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Flask | CI4
+
+<hr>
+
+
+
+<br/><br/>
+
+[![AseCx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArroKM&show_icons=true)](https://github.com/ArroKM)
+
+<br/>
+
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArroKM&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+<a href="#"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+
+<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://www.instagram.com/arrokm.1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+
+<a href="mailto:arrokm053@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+
+
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+
+
+
+<hr>
+
+
