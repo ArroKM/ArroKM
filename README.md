@@ -71,13 +71,13 @@ class Skills extends webDeveloper {
 
 <p align="center">
 
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="#"><img alt="Website" src="https://img.shields.io/badge/ase-xc.com-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AseCx-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/arrokm.1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/arrokm.1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-arrokm.1-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:arrokm053@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:arrokm053@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arrokm053@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
