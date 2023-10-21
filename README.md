@@ -71,11 +71,11 @@ class Skills extends webDeveloper {
 
 <p align="center">
 
-<a href="https://ase-xc.com"><img alt="Website" src="https://img.shields.io/badge/ase-xc.com-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://asecc.me"><img alt="Website" src="https://img.shields.io/badge/asecc.me-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AseCx-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/arrokm.1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-arrokm.1-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/asecc.me/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-asecc.me-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:arrokm053@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arrokm053@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
