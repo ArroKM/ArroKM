@@ -17,7 +17,7 @@ class Bio extends webDeveloper {
 class Skills extends webDeveloper {
   languages  = ['JavaScript', 'PHP', 'Python'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['CI4', 'Bootstrap', 'Flask'];
+  frameworks = ['CI4', 'Flask', 'Laravel'];
 }
 ```
 
@@ -37,7 +37,7 @@ class Skills extends webDeveloper {
 
 - 💻 &nbsp; Python | PHP | MySql
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Flask | CI4
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Flask | CI4 | Laravel
 
 <hr>
 
