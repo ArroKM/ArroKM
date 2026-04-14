@@ -1,7 +1,11 @@
-### Hi there 👋  
-## I'm AseCx
+<h1 align="center">Hi 👋, I'm AseCx</h1>
+<h3 align="center">🚀 Web Developer | Tech Enthusiast</h3>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</p>
+
+---
 
 ### 👨🏻‍💻 About Me
 
@@ -31,16 +35,17 @@ class Skills extends webDeveloper {
 
 ### 🛠 Tech Stack
 
-💻 Python | PHP | MySQL  
-🌐 HTML | CSS | JavaScript | Bootstrap | Flask | CI4 | Laravel  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,laravel,flask,mysql,mongodb,postgres" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArroKM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArroKM&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArroKM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArroKM&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,7 +58,11 @@ class Skills extends webDeveloper {
 
 ---
 
-<img align="right" src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="300"/>
+### 🧠 Fun Touch
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArroKM&theme=tokyonight" />
+</p>
 
 ---
 
@@ -61,7 +70,7 @@ class Skills extends webDeveloper {
 
 <p align="center">
   <a href="https://asecc.me">
-    <img src="https://img.shields.io/badge/Website-asecc.me-black?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/Website-asecc.me-000?style=for-the-badge&logo=google-chrome">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-AseCx-0077B5?style=for-the-badge&logo=linkedin">
