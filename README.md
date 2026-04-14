@@ -1,10 +1,11 @@
-### Hi there 👋<h2> I'm AseCx</h2>
+### Hi there 👋  
+## I'm AseCx
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
-<h3> 👨🏻•💻 About Me </h3>
+### 👨🏻‍💻 About Me
 
-```js
+```javascript
 import webDeveloper from 'AseCx';
 
 class Bio extends webDeveloper {
@@ -21,76 +22,64 @@ class Skills extends webDeveloper {
 }
 ```
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 Exploring new technologies and building software solutions  
+- 🎓 Passionate about computer science and development  
+- 🌱 Learning Cloud Tech & System Design  
+- ✍️ Web development as side hustle & hobby  
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+---
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+### 🛠 Tech Stack
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+💻 Python | PHP | MySQL  
+🌐 HTML | CSS | JavaScript | Bootstrap | Flask | CI4 | Laravel  
 
+---
 
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | PHP | MySql
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Flask | CI4 | Laravel
-
-<hr>
-
-
-
-<br/><br/>
-
-[![AseCx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArroKM&show_icons=true)](https://github.com/ArroKM)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArroKM&show_icons=true)
-
-<br><br>
-
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
+### 📊 GitHub Stats
 
 <p align="center">
-
-<a href="https://asecc.me"><img alt="Website" src="https://img.shields.io/badge/asecc.me-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AseCx-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/asecc.me/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-asecc.me-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:arrokm053@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arrokm053@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArroKM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArroKM&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
+### 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArroKM&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<img align="right" src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="300"/>
 
+---
 
+### 🤝 Connect with Me
 
+<p align="center">
+  <a href="https://asecc.me">
+    <img src="https://img.shields.io/badge/Website-asecc.me-black?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-AseCx-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.instagram.com/asecc.me/">
+    <img src="https://img.shields.io/badge/Instagram-asecc.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:arrokm053@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arrokm053@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
+---
 
-<hr>
+### 👀 Visitor Count
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArroKM&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
+---
