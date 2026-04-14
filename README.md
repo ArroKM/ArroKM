@@ -2,44 +2,45 @@
 <h3 align="center">🚀 Web Developer | Backend Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Clean+Code+%7C+Smart+Solutions;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Web+Applications;Automation+%26+Bot+Developer;Always+Learning+New+Things" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
-</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
 ---
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 ```javascript
-import Developer from 'AseCx';
+import webDeveloper from 'AseCx';
 
-class Bio extends Developer {
+class Bio extends webDeveloper {
   name     = 'AseCx';
-  role     = 'Web Developer';
-  focus    = 'Backend Development';
+  title    = 'Web Developer';
   team     = 'XiuzCode';
-  location = 'Cilegon, Indonesia';
+  location = 'Cilegon, Banten';
 }
 
-class Skills extends Developer {
+class Skills extends webDeveloper {
   languages  = ['JavaScript', 'PHP', 'Python'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['Laravel', 'Flask', 'CodeIgniter 4'];
+  frameworks = ['CI4', 'Flask', 'Laravel'];
 }
 ```
 
-- 🚀 Building scalable and efficient web applications  
-- 🧠 Strong interest in backend systems & architecture  
-- 🌱 Currently learning **Cloud Computing & System Design**  
-- ⚡ Love creating automation, bots & smart tools  
-- 🤝 Open for collaboration & freelance projects  
+- 🤔 Exploring new technologies and developing software solutions and quick hacks  
+- 🎓 Passionate about Computer Science and coding stuffs  
+- 🌱 Learning about Cloud Tech & Systems Design  
+- ✍️ Pursuing Web Development as hobbies/side hustles  
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
+
+<p>
+  💻 &nbsp; Python | PHP | MySQL <br>
+  🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Flask | CI4 | Laravel
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,laravel,flask,mysql,mongodb,postgres,git,linux" />
@@ -47,12 +48,16 @@ class Skills extends Developer {
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArroKM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArroKM&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArroKM&theme=tokyonight&hide_border=true" />
@@ -60,7 +65,7 @@ class Skills extends Developer {
 
 ---
 
-### 🧠 Developer Insights
+## 🧠 Developer Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArroKM&theme=tokyonight" />
@@ -68,35 +73,39 @@ class Skills extends Developer {
 
 ---
 
-### ⚡ What I'm Up To
+## ⚡ What I'm Doing
 
-- 🔨 Building web apps & backend systems  
-- 📈 Improving trading bots & automation tools  
-- ☁️ Exploring cloud infrastructure  
-- 🧪 Experimenting with new tech stacks  
+- 🤖 Building automation & trading bots  
+- 🌐 Developing backend systems & APIs  
+- ☁️ Exploring cloud & scalable architecture  
+- 🧪 Experimenting with new technologies  
 
 ---
 
-### 🤝 Connect with Me
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align="right"/>
+
+---
+
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://asecc.me">
-    <img src="https://img.shields.io/badge/Website-asecc.me-000?style=for-the-badge&logo=google-chrome">
+    <img alt="Website" src="https://img.shields.io/badge/asecc.me-black?style=for-the-badge&logo=google-chrome">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-AseCx-0077B5?style=for-the-badge&logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AseCx-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://www.instagram.com/asecc.me/">
-    <img src="https://img.shields.io/badge/Instagram-asecc.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-asecc.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:arrokm053@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arrokm053@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-arrokm053@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 👀 Visitor Count
+## 👀 Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArroKM&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -105,5 +114,5 @@ class Skills extends Developer {
 ---
 
 <p align="center">
-  ⚡ "Code. Build. Break. Learn. Repeat."
+  ⚡ <i>"Code. Build. Break. Learn. Repeat."</i>
 </p>
